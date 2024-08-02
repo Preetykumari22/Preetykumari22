@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ada36ec6-222f-49f0-b9ec-47e3f467c3a9)
+![image](https://github.com/Preetykumari22/Preetykumari22/blob/main/Screenshot%202024-08-02%20120356.png))
 
 <h1 align="center">Hi 👋, I'm Preety Kumari</h1>
 <h3 align="center">A passionate developer from India</h3>
