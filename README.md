@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preety Kumari</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="aws" width="400" src=""C:\Users\HP\Downloads\rrr.gif""
+<img align="right" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" jsaction="" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 200px; margin: 2px; width: 250px;" alt="Coding by waldek for Toptal Designers on Dribbble" jsname="kn3ccd">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetykumari22&label=Profile%20views&color=0e75b6&style=flat" alt="preetykumari22" /> </p>
 
